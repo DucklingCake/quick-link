@@ -1,5 +1,5 @@
 var studioid = 2955398;
-var curators = ["ZLGames", "MegaByteCorporations", "Novakitty", "banana439monkey"];
+var curators = ["ZLGames", "MegaByteCorporations", "Novakitty", "banana439monkey", "programmer27", "SkyDev", "Kien1234", "Snazzyoo"];
 var count = 0;
 function getUnread(page){
   var commentList;
